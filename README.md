@@ -18,7 +18,7 @@
        <a href=https://www.twitch.tv/styxcm" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
  <a href="https://open.spotify.com/user/kax6xkwljx2t69fdjsw1ycxpg?si=f5c323b2d7684593" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  
- [![Discord Presence](https://cdn.discordapp.com/attachments/762025846185263116/860864983864180746/unknown.png)](https://discord.com/users/751596850389450802)
+
  
 
 </p>
