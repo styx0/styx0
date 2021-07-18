@@ -4,7 +4,7 @@
 
 🎉 Tekrardan herkese selam!
 
-- Kendimden biraz bahsedeyim. Ben Onur namı diğer [Styx](https://github.com/styx0) 19 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur. 
+- Kendimden biraz bahsedeyim. Ben Onur namı diğer [Styx](https://github.com/styx0) 55 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur. 
 10 - 20 yıla yakındır yazılımla içli dışlıyım, bana yazılımı sevdiren ve her zaman destekçim olan [Zeze](https://github.com/Zezejs)'e teşekkürlerimi sunuyorum :)
 
 - Kişisel blogumu [Yakında](yakında) edebilirsin!
