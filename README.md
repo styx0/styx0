@@ -1,14 +1,6 @@
 
 ## Merhaba Github! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-
-🎉 Tekrardan herkese selam!
-
-- Kendimden biraz bahsedeyim. Ben Onur namı diğer [Styx](https://github.com/styx0) 55 yaşındayım, öğrenmeye, gelişmeye her zaman aç birisi olmuşumdur. 
-10 - 20 yıla yakındır yazılımla içli dışlıyım, bana yazılımı sevdiren ve her zaman destekçim olan [Zeze](https://github.com/Zezejs)'e teşekkürlerimi sunuyorum :)
-
-- Kişisel blogumu [Yakında](yakında) edebilirsin!
-
 <img src="https://komarev.com/ghpvc/?username=styx0&label=Ziyaretçi%20Sayısı&color=552b75" alt="styx0" />
 
 <h3>🌟 Sosyal medya hesaplarım!</h3>
